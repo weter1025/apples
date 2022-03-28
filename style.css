@@ -12,10 +12,9 @@
 #header .header-title {
     font-weight: bold;
     font-size: 32px;
-    line-height: 26px;
     border-bottom: 1px solid #ebebeb;
     padding-bottom: 10px;
-    margin-bottom: 10px;
+    margin-bottom: 12px;
 }
 #header .header-id {
     position: absolute; right: 0; bottom: 5px;
@@ -34,11 +33,9 @@
     background: linear-gradient(180deg, #DDDADA 0%, #C0C0C0 100%);
 }
 /* bestM */
-.bestM {}
-.bestM .best-title {}
-.bestM .best-title .bt-stit {}
-.bestM .best-title .bt-tit {}
-.bestM .best-title .bt-desc {}
+.bestM .best-title .bt-stit {color: #DA5E7C; font-size: 12px; line-height: 1.67; font:bold;}
+.bestM .best-title .bt-tit {font-size: 22px; padding-bottom: 5px;}
+.bestM .best-title .bt-desc {font-size: 22px; font-weight: 300; margin-bottom: 10px; color: #818181;}
 
 
 
