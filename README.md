@@ -1,3 +1,3 @@
 # apples
 
-<a href="https://github.com/weter1025/apples/blob/main/apple02.html">apple02.html</a>
+<a href="https://weter1025.github.io/apples/apple02.html">apple02.html</a>
