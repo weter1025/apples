@@ -59,7 +59,7 @@
     background-color: #ebebeb;
 }
 .nextM .next .next-img {width: 102px; margin-right: 12px;}
-.nextM .next .next-tit {display: flex; flex-direction: column; justify-content: center;}
+.nextM .next .next-tit {display: flex; flex-direction: column; justify-content: center; }
 .nextM .next .next-tit .nt-stit {color: #da5e70; font-size: 12px; font-weight: 600;}
 .nextM .next .next-tit .nt-tit {font-size: 16px; font-weight: 600;}
 .nextM .next .next-tit .nt-disc {
@@ -75,4 +75,13 @@
 @media (max-width: 1020px) {
     .contaner {width: 100%;}
 }
-    
+/* music Select */
+.music-selc-box {padding-top: 20px; width: 1000px; margin: 0 auto; height: 67px; background-color: #ededed;}
+.music-selc {display: flex;}
+.music-selc-img {width: 48px; margin-right: 12px; margin-bottom: 12px; margin-top: 12px; border-radius: 3px;}
+.music-name {font-size: 12px; font-weight: 600; margin-top: 21px; font-family: "Montserrat"; margin-left: 15px;}
+.next-music-key {margin-right: 64px; position: absolute; right: 0; bottom: 5px; margin-bottom: 21px;}
+.next-music-key2 {margin-right: 32px; position: absolute; right: 0; bottom: 5px; margin-bottom: 21px;}
+.next-music-key3 {margin-right: 20px; position: absolute; right: 0; bottom: 5px; margin-bottom: 21px;}
+
+/* under-bar */
